@@ -1,6 +1,7 @@
 ---
-name: Cross-Check 'task-name' 'github nickname'
+name: Cross-Check appeal
 about: issue to check work by activists
+title: Cross-Check 'task-name' 'github nickname'
 ---
 
 1. A link to your deployed project
