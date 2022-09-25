@@ -1,5 +1,6 @@
 ---
 name: Cross-Check 'task-name' 'github nickname'
+about: issue to check work by activists
 ---
 
 1. A link to your deployed project
